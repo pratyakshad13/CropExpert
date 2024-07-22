@@ -1,0 +1,22 @@
+.h-wrapper{
+    background: green; 
+    color: white;
+}
+.h-container{
+    justify-content: space-between;
+    height: 75px;
+    padding-top: 0.7rem;
+    padding-bottom: 1rem;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(28,3,59,1) 0%, rgba(54,120,201,1) 0%, rgba(96,48,158,1) 20%, rgba(116,14,138,1) 64%, rgba(76,9,102,1) 100%);
+}
+.h-menu{
+    gap:2rem;
+}
+.h-menu>*:hover{
+    cursor: pointer;
+}
+.imgclass{
+    height: 60px;
+    width: 200px;
+}
